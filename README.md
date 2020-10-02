@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello! 👩‍💻
+Hi, I'm Bryony! I'm a Computer Science undergrad based in the UK!
+I am currently interning as a software developer. I love working on full-stack projects, with a focus is on backend development! 
 
-<!--
-**bryonye/bryonye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
+```javascript
+const skills = {
+	areasOfInterest: ["fullstack", "firmware", "embedded systems"],
+	proficient: ["Python"],
+	learning: ["Go", "Java", "Javascript", "Haskell", "Prolog", "C", "CSS", "PHP", "HTML"],
+	frameworks: ["Django"],
+	design: ["Inkscape", "Illustrator", "Adobe Xd", "Procreate", "Vectornator"]
+};
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+I'm open for collaboration! Please get in touch with me.
+
+<pre>
+ Today I wrote a bash script...
+　　　　　　　V 　　　　　 ∧＿∧　　　　　
+　　　　∧＿∧ 　　　    （´<_｀ 　）　　＜　I bet you feel like a hacker now...
+　　　（　´_ゝ`）　　　  /　    \
+    ／　　 /￣￣￣￣￣/　    　　|　　　
+  /　　  ./  UNIX   /        ,
+ （__ﾆつ/＿＿＿＿＿ /＿＿＿＿＿
+</pre>
